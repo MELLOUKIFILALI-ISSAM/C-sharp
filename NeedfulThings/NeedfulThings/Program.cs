@@ -1,9 +1,6 @@
 using Serilog;
 using Microsoft.EntityFrameworkCore;
-using NeedfulThings.Infrastructure;
-using NeedfulThings.Infrastructure.Repositories;
 using Scalar.AspNetCore;
-using NeedfulThings.Domain.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,23 +13,13 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
 //Ajouter les Mappers au DI
-builder.Services.AddSingleton<NeedfulThings.Application.Mappers.WeatherMapper>();
 //Ajouter les service au DI
-builder.Services.AddScoped<NeedfulThings.Application.Services.WeatherService>();
+
 //Ajouter les repositories au DI
 var connectionString = builder.Configuration.GetConnectionString("BazaarConnection");
-builder.Services.AddDbContext<NeedfulThingsContext>(options =>
-    options.UseSqlServer(connectionString));
-builder.Services.AddScoped<IWeatherForecastRepository, WeatherForecastRepository>();
 
 var app = builder.Build();
 
-// Seed data
-using (var scope = app.Services.CreateScope())
-{
-    var db = scope.ServiceProvider.GetRequiredService<NeedfulThingsContext>();
-    SeedData.Initialize(db);
-}
 
 app.UseSerilogRequestLogging();
 
