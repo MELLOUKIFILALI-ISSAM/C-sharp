@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\bookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\bookstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\caddyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\caddyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\caddy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\caddy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\selleritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\selleritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\exceptions\\conflicexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\exceptions\\conflicexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\domain\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\BookStore.csproj|solutionrelative:needfulthings\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\NeedfulThings.csproj|c:\\users\\issam\\desktop\\hepl\\b3\\c-sharp\\needfulthings\\needfulthings\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F73483C8-4E66-492F-8C65-42EF234C1975}|NeedfulThings\\NeedfulThings.csproj|solutionrelative:needfulthings\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Seller.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\Seller.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Seller.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:45:37.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\Client.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:41:59.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaddyItem.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\CaddyItem.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\CaddyItem.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\CaddyItem.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\CaddyItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:44:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caddy.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Caddy.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\Caddy.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Caddy.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\Caddy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:43:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:39:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Program.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Program.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Program.cs",
+              "RelativeToolTip": "NeedfulThings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:36:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:50:03.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStore",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\BookStore.csproj",
+              "RelativeDocumentMoniker": "NeedfulThings\\BookStore.csproj",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\BookStore.csproj",
+              "RelativeToolTip": "NeedfulThings\\BookStore.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-21T13:51:34.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SellerItem.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\SellerItem.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\SellerItem.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\SellerItem.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\SellerItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:46:15.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\Subject.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Subject.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:37:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:38:32.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConflicException.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Exceptions\\ConflicException.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Exceptions\\ConflicException.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Exceptions\\ConflicException.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Exceptions\\ConflicException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:50:26.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "NeedfulThings\\Domain\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Domain\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "NeedfulThings\\Domain\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:50:40.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NeedfulThings\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NeedfulThings\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-21T13:35:18.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\README.md",
+              "RelativeDocumentMoniker": "NeedfulThings\\README.md",
+              "ToolTip": "C:\\Users\\Issam\\Desktop\\hepl\\B3\\C-sharp\\NeedfulThings\\NeedfulThings\\README.md",
+              "RelativeToolTip": "NeedfulThings\\README.md",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-21T13:31:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
